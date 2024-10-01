@@ -16,7 +16,7 @@ header { background: url('img/headerbg.jpg') center/cover }
 
 footer p{
     opacity: 0.7;
-    font-size: 0.8rem;
+    font-size: 15px;
     line-height: 30px;
     color: #fff;
     font-weight: 400;
@@ -25,7 +25,7 @@ footer p{
 
 footer h5{
     margin-top: 40px;
-    font-size: 1.1rem;
+    font-size: 18px;
     color: #fff;
     font-weight: 400;
     font-family: "Roboto";
